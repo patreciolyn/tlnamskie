@@ -1,0 +1,109 @@
+a {
+text-decoration: none;
+color:white;
+font-size:14px;
+font-family:Poppins;
+}
+nav {
+float:right;
+margin:25px;
+}
+ul li{
+float:left;
+list-style-type: none;
+width:100px;
+}
+footer{
+background-color:#2196f3;
+}
+
+button{
+height:35px;
+width:120px;
+border-radius: 10px;
+margin:8px;
+border:1px solid white;
+}
+h2 span{
+color:#2196f3;
+}
+.first-div {
+background-color:#2196f3;
+text-align: justify;
+height:508px;
+}
+.second-div{
+width:50%;
+margin-left:90px;
+padding:100px 0px;
+}
+.third-div{
+width: 100%;
+height:490px;
+float:left;
+background-color:#2196f3;
+overflow: hidden;
+padding:80px 0px;
+}
+.fourth-div {
+width:100%;
+padding-top:100px;
+
+}
+.logo {
+width:50px;
+height:50px;
+margin:25px;
+
+}
+.footertext {
+margin-bottom: 30px;
+}
+.text-buttons{
+width:50%;
+float:left;
+
+}
+
+.devices-img{
+position: inline;
+}
+.col-1{
+width:33%;
+float:left;
+
+
+}
+.col-2{
+width:33%;
+float:left;
+
+
+}
+.col-3{
+width:33%;
+float:right;
+
+
+}
+.devices {
+height:480px;
+}
+.iphoneimg{
+height:550px; /* 273px*/
+}
+.footer-logo{
+width: 40px;
+height:40px;
+margin:30px 30px 10px 30px;
+}
+.download-imgs{
+margin:30px;
+}
+.third-div h2{
+font-family: Monstserrat Regular;
+}
+.topcontainer{
+width:960px;
+margin:0 auto;
+}
